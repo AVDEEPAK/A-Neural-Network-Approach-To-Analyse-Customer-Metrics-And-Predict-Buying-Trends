@@ -1,0 +1,2 @@
+# A-Neural-Network-Approach-To-Analyse-Customer-Metrics-And-Predict-Buying-Trends
+This repository implements a neural network–based system to analyze customer metrics and predict buying trends. It processes historical customer data to identify patterns, forecast purchasing behavior, and support data-driven marketing, retention, and sales decisions using deep learning models and performance evaluation tools.
